@@ -1,0 +1,28 @@
+body {
+    background-image: url("/assets/images/background.jpg");
+    position: static;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+#FF {
+    color: white;
+}
+
+#Q {
+    color: white;
+}
+
+#link {
+    color: white;
+}
+
+#git {
+    color: white;
+}
